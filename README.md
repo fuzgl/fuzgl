@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fuzgl
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Full stack development
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Full Stack Development
